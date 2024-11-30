@@ -219,19 +219,6 @@ function addGhostlyFigure() {
     }, 3000); // Ghost lasts for 3 seconds
 }
 
-// THIS IS IMPORTANT: APATOTO comment rakh
-
-// // Darken screen briefly for a horror effect
-// function darkenScreen() {
-//     const darkOverlay = document.createElement('div');
-//     darkOverlay.className = 'dark-overlay';
-//     document.body.appendChild(darkOverlay);
-    
-//     setTimeout(() => {
-//         darkOverlay.remove();
-//     }, 500); // Overlay lasts for 0.5 seconds
-// }
-
 setInterval(addGhostlyFigure, 15000); // Add ghost every 15 seconds
 setInterval(darkenScreen, 30000); // Darken screen every 30 seconds
 setInterval(playRandomSound, 20000); // Play sound every 20 seconds
