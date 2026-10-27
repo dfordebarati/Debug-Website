@@ -14,7 +14,7 @@ Aimed at first- and second-year students, the site provides a challenging and en
 
 ## 🚀 Live Deployment  
 
-Check out the live version of the website here: [Website Link](https://buggy-jtczv2dau-debarati-seals-projects.vercel.app/)
+Check out the live version of the website here: [Website Link](https://buggy-web.vercel.app/)
 
 ### Special Thanks  
 
